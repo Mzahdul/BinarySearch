@@ -118,9 +118,5 @@ void binarySearch()
 
 int main ()
 {
-    input();
-    bublesortarray();
-    display();
-    binarySearch();
 
 }
