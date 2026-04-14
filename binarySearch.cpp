@@ -51,3 +51,8 @@ void bublesortarray()
     } while (pass <= nPanjang -1);
 }
 
+void display()
+{
+
+}
+
